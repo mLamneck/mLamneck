@@ -49,7 +49,7 @@ I'm actively seeking collaborators for the following projects:
 - **[SDDS_ESP_Extension](https://github.com/mLamneck/SDDS_ESP_Extension):** SDDS_ESP_Extension is an extension of the SDDS core library tailored for ESP platforms. It introduces ESP-specific functionalities such as WebSpike (a web-based graphical user interface) and WifiManager.
 
 ## Contact Me
-If you're interested in collaborating on any of these projects or have questions about my work, feel free to reach out to me via email: [mark.lamneck@example.com](mailto:mark.lamneck@gmail.com).
+If you're interested in collaborating on any of these projects or have questions about my work, feel free to reach out to me via email: [mark.lamneck@gmail.com](mailto:mark.lamneck@gmail.com).
 
 Thank you for considering collaboration! Let's build something awesome together! 🚀
 
